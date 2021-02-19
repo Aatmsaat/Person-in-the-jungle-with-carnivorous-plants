@@ -1,0 +1,10 @@
+E:\Vaibhav\projects\PersonInJungle\PersonInJungle\bin\Debug\PersonInJungle.exe.config
+E:\Vaibhav\projects\PersonInJungle\PersonInJungle\bin\Debug\PersonInJungle.exe
+E:\Vaibhav\projects\PersonInJungle\PersonInJungle\bin\Debug\PersonInJungle.pdb
+E:\Vaibhav\projects\PersonInJungle\PersonInJungle\obj\Debug\PersonInJungle.csprojAssemblyReference.cache
+E:\Vaibhav\projects\PersonInJungle\PersonInJungle\obj\Debug\PersonInJungle.Form1.resources
+E:\Vaibhav\projects\PersonInJungle\PersonInJungle\obj\Debug\PersonInJungle.Properties.Resources.resources
+E:\Vaibhav\projects\PersonInJungle\PersonInJungle\obj\Debug\PersonInJungle.csproj.GenerateResource.cache
+E:\Vaibhav\projects\PersonInJungle\PersonInJungle\obj\Debug\PersonInJungle.csproj.CoreCompileInputs.cache
+E:\Vaibhav\projects\PersonInJungle\PersonInJungle\obj\Debug\PersonInJungle.exe
+E:\Vaibhav\projects\PersonInJungle\PersonInJungle\obj\Debug\PersonInJungle.pdb
